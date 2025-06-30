@@ -7,8 +7,7 @@
 This projects demonstrates ways to employ distributed processing to handle large scale datasets in ML systems, maintaining scalability and low latency.
 An end-to-end ML pipeline that recommends academic papers using embeddings and FAISS similarity search, deployed with FastAPI and Streamlit.
 
-![System Architecture](docs/system_architecture.png)  
-*(Example architecture diagram - replace with your actual diagram)*
+![System Architecture](img/system_arch_recomm_sys.png)
 
 ## 🚀 Key Features
 
