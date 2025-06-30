@@ -1,0 +1,34 @@
+# Core data handling
+pandas
+pyarrow
+numpy
+
+# arXiv data collection
+arxiv
+
+# Embedding models
+transformers
+sentence-transformers
+torch
+
+# Distributed compute
+ray
+
+# Vector search
+faiss-cpu
+
+# Backend API
+fastapi
+uvicorn
+
+# Frontend UI
+streamlit
+requests
+
+# Evaluation + visualization
+scikit-learn
+matplotlib
+seaborn
+
+# Optional (recommended for type validation in FastAPI)
+pydantic

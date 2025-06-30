@@ -1,0 +1,6 @@
+query,expected_category,matched_ids,match_flags,precision@k,latency_sec
+Graph Neural Networks for Chemistry,cs.LG,"['2506.22084v1', '2506.20324v1', '2506.16602v1', '2506.16550v1', '2506.20699v1']","[True, True, True, True, True]",1.0,2.149
+Transformers in NLP,cs.CL,"['2506.16550v1', '2506.22084v1', '2506.20699v1', '2506.18011v1', '2506.20324v1']","[False, False, False, False, False]",0.0,2.135
+Reinforcement Learning for Robotics,cs.RO,"['2506.19121v1', '2506.18454v1', '2506.18123v1', '2506.21628v1', '2506.16685v1']","[True, True, True, True, True]",1.0,2.121
+Quantum Computing and Algorithms,quant-ph,"['2506.22241v1', '2506.21842v1', '2506.19275v1', '2506.21015v1', '2506.16938v1']","[True, True, True, True, True]",1.0,2.151
+Deep Learning for Radiology,eess.IV,"['2506.17133v1', '2506.19683v2', '2506.19387v1', '2506.17552v1', '2506.20689v1']","[True, True, True, False, True]",0.8,2.155
